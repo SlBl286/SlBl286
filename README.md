@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlBl286
 - 👀 I’m interested in game,music,film
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently learning .net core, SFM-C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
